@@ -6,6 +6,6 @@ print('Seccion 01')
 print('Por favor ingrese su animal favorito: ')
 animal = input()
 if animal == 'gato':
-    print('A mí también me gustan los gatos')
+    print('A mí también me gustan los gatos.')
 else:
-    print('Es un animal interesante, pero me gustan más los gatos')
+    print('Es un animal interesante, pero me gustan más los gatos.')
