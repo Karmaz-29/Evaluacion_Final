@@ -1,6 +1,6 @@
 # Serie favorita: Dark
  Dark es una serie alemana de suspenso y ciencia ficción, situada en una ciudad ficticia llamada Winden, toda la trama se crea gracias a que desaparece el hijo de un policía, la desaparición surge al lado de una misteriosa cueva y se dan unos misteriosos viajes en el tiempo.:smile:
- 
+
  ![Una imagen](https://cdn.culturagenial.com/es/imagenes/dark-logo-cke.jpg)
 
  ## ¿Por qué es mi serie favorita?
@@ -32,4 +32,4 @@ Mi personaje favorito fue Mikkel Nielsne, ya que a pesar de haber cambiado de re
 Mi suceso favorito, fue cuando trataron de regresar la linea del tiempo a la normalidad, ya que fue verdaderamente interesante como ocurrieron los viajes en el tiempo y se descubrió que realmente los personajes principales no debían existir.:mechanical_leg:
 
 
-Mi compañera @ LisAY22 ha iniciado con la serie y me parece muy interesante el tratar de no arruinarle el final.
+Mi compañera @LisAY22 ha iniciado con la serie y me parece muy interesante el tratar de no arruinarle el final.
