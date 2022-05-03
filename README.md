@@ -1,6 +1,6 @@
 # Serie favorita: Dark
  Dark es una serie alemana de suspenso y ciencia ficción, situada en una ciudad ficticia llamada Winden, toda la trama se crea gracias a que desaparece el hijo de un policía, la desaparición surge al lado de una misteriosa cueva y se dan unos misteriosos viajes en el tiempo.:smile:
- ! (https://cdn.culturagenial.com/es/imagenes/dark-logo-cke.jpg)
+ ![Una imagen](https://cdn.culturagenial.com/es/imagenes/dark-logo-cke.jpg)
 
  ## ¿Por qué es mi serie favorita?
 Esta es mi serie favorita, ya que los viajes en el tiempo con muy interesantes, y esta serie los desarrolla de una forma extraña. que llega a ser cautivante, te hace pensar en las crisis que darían los viajes en el tiempo en el entorno normal en el que vivimos, lo cual es extravagante y causa el descubrimiento de nuevas perspetivas sobre la vida.:star_struck:
@@ -9,7 +9,7 @@ Esta historia trae consigo una enorme cantidad de teorías científicas que siem
 
 
 ### Personajes que aparecen en la serie:
-! (https://imagenes.elpais.com/resizer/8ejzCFOG3eb2dD0LBwbF6xievjE=/1960x1103/ep01.epimg.net/cultura/imagenes/2017/12/01/television/1512131212_503549_1512131866_noticia_fotograma.jpg)
+![Una imagen](https://imagenes.elpais.com/resizer/8ejzCFOG3eb2dD0LBwbF6xievjE=/1960x1103/ep01.epimg.net/cultura/imagenes/2017/12/01/television/1512131212_503549_1512131866_noticia_fotograma.jpg)
 
 - [x] Jonas Kahnwald.
 - [x] Mikkel Nielsen.
