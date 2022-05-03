@@ -1,5 +1,6 @@
 # Serie favorita: Dark
  Dark es una serie alemana de suspenso y ciencia ficción, situada en una ciudad ficticia llamada Winden, toda la trama se crea gracias a que desaparece el hijo de un policía, la desaparición surge al lado de una misteriosa cueva y se dan unos misteriosos viajes en el tiempo.:smile:
+ 
  ![Una imagen](https://cdn.culturagenial.com/es/imagenes/dark-logo-cke.jpg)
 
  ## ¿Por qué es mi serie favorita?
